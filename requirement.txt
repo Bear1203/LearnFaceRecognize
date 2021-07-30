@@ -1,0 +1,7 @@
+autopep8
+h5py
+Opencv-python
+Tensorflow==1.14.0
+Keras==2.2.5
+Scikit-image
+mysqlclient

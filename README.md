@@ -19,3 +19,4 @@
 3. 確保資料庫中至少有一張人臉資料供比對。
 4. 照使用者需求在環境中執行作品介紹裡的各個python檔。
 # :bowtie::bowtie::bowtie::laughing::laughing::laughing:謝謝閱讀:laughing::laughing::laughing::bowtie::bowtie::bowtie:
+### P.S. 程式碼內有些註解，但沒有全部每一行都註解說明，也許之後有時間再更新:relieved:。
